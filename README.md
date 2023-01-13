@@ -17,8 +17,8 @@ This is an online store portal. Made with React JS, Redux, TypeScript and FakeAp
 
 ### Installation Procedure
 
-- git clone https://github.com/DelwarSumon/fs13-frontend-project.git
-- change your directory to fs13-frontend-project (Ex: `cd fs13-frontend-project`)
+- git clone https://github.com/DelwarSumon/frontend-ecommerce.git
+- change your directory to frontend-ecommerce (Ex: `cd frontend-ecommerce`)
 - `npm install`
 
 ## Available Scripts
